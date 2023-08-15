@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "link": "url",
+        "projectName": "Nuxt Bootcamp Project",
+        "image": "url",
+        "stack": "nuxt, tailwind",
+        "logo": "url"
+    },
+    {
+        "id": "1",
+        "link": "url",
+        "projectName": "Vue Intern Project",
+        "image": "url",
+        "stack": "vue, vanila css",
+        "logo": "url"
+    },
+    {
+        "id": "1",
+        "link": "url",
+        "projectName": "BWA react Project",
+        "image": "url",
+        "stack": "react, bootstarp, scss",
+        "logo": "url"
+    },
+    {
+        "id": "1",
+        "link": "url",
+        "projectName": "JS kalkulator",
+        "image": "url",
+        "stack": "HTML, CSS, JS",
+        "logo": "url"
+    },
+    {
+        "id": "1",
+        "link": "url",
+        "projectName": "FGA team project",
+        "image": "url",
+        "stack": "HTML, CSS",
+        "logo": "url"
+    }
+]
