@@ -12,7 +12,7 @@ export default function Home() {
             <Hero></Hero>   
           </div>
           <div>
-            <Project title="Vue project base intern" stack="vue.js"></Project>
+            <Project></Project>
           </div>
          
         </div>
