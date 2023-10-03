@@ -21,3 +21,17 @@ li {
     width: 100%; 
     left: 0; 
   }
+
+
+  ::-webkit-scrollbar {
+    
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: #EE3C20;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: #8888;
+  }

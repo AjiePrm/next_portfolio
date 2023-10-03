@@ -1,7 +1,12 @@
+"use client"
+
 import React from 'react'
 import Image from 'next/image'
+//import "@/app/Style/Card.css"
 
 export default function Card(props) {
+  
+
   return (
     <div className='w-[532px] h-[360px] bg-Paragraph rounded-[50px] relative'>
         <div className='absolute left-[14px] bottom-[14px] flex space-x-2 overflow-x-hidden overflow-y-hidden'>

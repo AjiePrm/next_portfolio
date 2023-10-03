@@ -7,8 +7,8 @@ import '../Style/Style.css'
 export default function Header() {
   return (
     <div className='pl-[48px] grid grid-cols-2 h-[30px] z-0'>
-        <div className='logo pt-[48px] cursor-pointer'>
-           <Image src='./logoAjie.svg' alt="japan" width={52} height={52}/> 
+        <div className='logo pt-[48px]'>
+           <Image className='cursor-pointer' src='./logoAjie.svg' alt="japan" width={52} height={52}/> 
         </div>
         <nav className='z-0'>
           <ul className='text-secondaryDark text-[18px] font-normal 
