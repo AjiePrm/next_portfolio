@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "link": "url",
+        "link": "https://airbnb-clone-already-taken.netlify.app/",
         "projectName": "Nuxt Bootcamp Project",
         "image": "url",
         "stack": "nuxt, tailwind",
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "link": "url",
+        "link": "https://e-commers-public-api-ajie.netlify.app/",
         "projectName": "Vue Intern Project",
         "image": "url",
         "stack": "vue, vanila css",
@@ -17,7 +17,7 @@
     },
     {
         "id": "3",
-        "link": "url",
+        "link": "https://staydi-sini-ajieprima0.netlify.app/",
         "projectName": "BWA react Project",
         "image": "url",
         "stack": "react, bootstarp, scss",
@@ -25,15 +25,17 @@
     },
     {
         "id": "4",
-        "link": "url",
+        "link": "https://ajieprm.github.io/Kalkulator-Js/",
         "projectName": "JS kalkulator",
         "image": "url",
-        "stack": "HTML, CSS, JS",
+        "stack": {
+            "icon": "url"
+        },
         "logo": "url"
     },
     {
         "id": "5",
-        "link": "url",
+        "link": "https://ajieprm.github.io/m1PetShopTeam/",
         "projectName": "FGA team project",
         "image": "url",
         "stack": "HTML, CSS",

@@ -2,7 +2,7 @@ import React from "react";
 //import Image from 'next/image'
 import "@/app/Style/Project.css";
 import Card from "../Components/Card";
-import Title from "../Components/title"
+import Title from "../Components/title";
 import Link from "next/link";
 //import Link from "react-scroll";
 //import vueImg from '../../src/Assets/Image/vue.svg'
@@ -42,7 +42,7 @@ export default function Project() {
           <Card title="Vue project base intern" stack="vue.js"></Card>
         </div>
       </div>
-      <div className="absolute right-2 top-[60%]">
+      <div className="absolute right-1 top-[60%]">
         <h1 className="text-primaryRed text-[26px] rotate-90">S c r o l l</h1>
       </div>
     </div>
